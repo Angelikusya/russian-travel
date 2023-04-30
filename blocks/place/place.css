@@ -21,6 +21,7 @@
 /* 768px-1023px */
 @media screen and (max-width: 1023px) {
     .place  {
+        grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
         padding: 0 0 73px 0;
         gap: 48px 28px;
     }
