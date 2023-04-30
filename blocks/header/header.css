@@ -1,0 +1,37 @@
+/*Desktop first*/
+/* 1280px+ */
+
+.header {
+  max-width: 1184px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 28px 48px 0 48px;
+  max-height: 52px;
+}
+
+/* 1024px-1279px*/
+@media screen and (max-width: 1279px) {
+  .header {
+    max-width: 928px;
+  }
+}
+
+/* 768px-1023px*/
+@media screen and (max-width: 1023px) {
+  .header {
+    padding: 28px 24px 0 24px;
+    max-width: 720px;
+    }
+  }
+
+  
+  /* 320px-767px*/
+  @media screen and (max-width: 767px) {
+    .header {
+      max-width: 288px;
+      max-height: 42px;
+      padding: 16px 16px 0 16px;
+    }
+  }
+  
