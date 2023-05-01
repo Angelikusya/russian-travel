@@ -9,4 +9,5 @@
 
 * Ловите ссылочку на GitHub (https://github.com/Angelikusya/russian-travel)
 
+* Буду крайне признательна за подробные комментарии! 
 
