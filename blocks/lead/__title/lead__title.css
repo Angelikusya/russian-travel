@@ -1,12 +1,11 @@
 .lead__title {
-    font-family: 'Intel';
     max-width: 720px;
     font-weight: 900;
     font-size: 96px;
     line-height: 100px;
     text-align: center;
     font-style: normal;
-     margin: 0 auto;
+    margin: 0 auto;
 }
 
   

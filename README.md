@@ -7,7 +7,7 @@
 
 **GitHub**
 
-* Ловите ссылочку на GitHub (https://github.com/Angelikusya/russian-travel)
+* Ловите ссылочку на GitHubPages (https://angelikusya.github.io/russian-travel/)
 
 * Буду крайне признательна за подробные комментарии! 
 

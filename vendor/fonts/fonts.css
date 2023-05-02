@@ -1,22 +1,26 @@
 @font-face {
-    src: url("../fonts/InterWeb/Inter-Regular.woff") format('woff'),
-         url("../fonts/InterWeb/Inter-Regular.woff2") format('woff2');
-    font-family: 'Intel';
-    font-weight: normal;
-
+    src: url("InterWeb/Inter-Regular.woff") format('woff'),
+         url("InterWeb/Inter-Regular.woff2") format('woff2');
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
 }
 
 @font-face {
-    src: url("../fonts/InterWeb/Inter-Bold.woff") format('woff'),
-         url("../fonts/InterWeb/Inter-Bold.woff2") format('woff');
-    font-family: 'Intel';
-    font-weight: bold;
+    src: url("InterWeb/Inter-Bold.woff") format('woff'),
+         url("InterWeb/Inter-Bold.woff2") format('woff2');
+    font-family: 'Inter';
+    font-weight: 700;
+    font-style:  normal;
+    font-display: swap;
 }
 
-/*@font-face {
-    src: url("../fonts/InterWeb/Inter-Black.woff") format('woff'),
-         url("../fonts/InterWeb/Inter-Black.woff2") format('woff');
-    font-family: 'Intel';
-    font-style: ;
+@font-face {
+    src: url("InterWeb/Inter-Black.woff") format('woff'),
+         url("InterWeb/Inter-Black.woff2") format('woff2');
+    font-family: 'Inter';
+    font-style:  normal;
+    font-weight: 900;
+    font-display: swap;
 }
-*/
