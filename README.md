@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-Ловите ссылочку на [проект] (https://angelikusya.github.io/russian-travel/)
+Ловите ссылочку на [проект](https://angelikusya.github.io/russian-travel/)
 
 **Коротко о главном**
 Цель данного проекта- отточить навыки:
